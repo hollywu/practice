@@ -1,2 +1,2 @@
 <?php
-//this is a php file
+//this is a comment!
