@@ -4,7 +4,8 @@ class writeJS {
     //adadadasdas
 	public function __construct() {
 		// this needs stuff
-		// yayayayayyaya
+		// yayayay
+		//ayyaya
 	}
 
 }
